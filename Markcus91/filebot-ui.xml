@@ -15,7 +15,7 @@
   <Support>http://lime-technology.com/forum/index.php?topic=40400.0</Support>
   <Registry>https://registry.hub.docker.com/u/coppit/filebot-ui/</Registry>
   <GitHub>https://github.com/Markcus91/docker-filebot-ui</GitHub>
-  <Repository>Markcus91/docker-filebot-ui</Repository>
+  <Repository>markcus91/docker-filebot-ui</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
     <Networking>
